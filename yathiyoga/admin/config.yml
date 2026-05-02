@@ -4,8 +4,8 @@ backend:
   name: github
   repo: sky023/sky023.github.io/yathiyoga
 
-media_folder: /public/media
-public_folder: /media
+media_folder: /yathiyoga/public/media
+public_folder: /yathiyoga/media
 
 collections:
   - name: posts
